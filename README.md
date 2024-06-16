@@ -1,7 +1,7 @@
 ## ⚡ Discord Ticket Bot Source
 There are a few things you've got to change in the main.js as well, but if you're a seller that set-up should do it.
 
-## 💡 Ticket Bot eatures:
+## 💡 Ticket Bot Features:
 > Create Ticket
 
 > Close Ticket
