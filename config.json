@@ -1,0 +1,13 @@
+{
+    "token": "",
+    "ownerId": "",
+    "clientId": "",
+    "guildId": "",
+    "logsChannelId": "",
+    "supportRoleId": "",
+    "embedSettings": {
+      "footer": "Loops Tickets - Test Bot",
+      "color": "#2596be"
+    }
+  }
+  
